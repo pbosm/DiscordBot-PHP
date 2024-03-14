@@ -54,10 +54,7 @@ class DiscordCommads {
     
         // IDs dos usuários que você deseja mencionar
         $userIdList = [
-            '239398719055855616',
-            '267156811700895744',
-            '187413035013505024',
-            '259354437733187584'
+            'id_do_usuario'
         ];
     
         //pegar randomicamente
